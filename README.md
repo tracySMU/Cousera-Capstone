@@ -1,7 +1,7 @@
-# Cousera-Capstone
+##Cousera-Capstone##
 This repository contains notebook for Coursera IBM DS certificate capstone
 
-Description of Problem and Background
+###Description of Problem and Background
 
 ABC Group (an arbitrary name) is a multinational corporate. Its business covers foods, real estate, property management and digital entertainment. And ABC group is considering expanding its business into Denver, a city with a hugely increasing number of immigrants, highly educated labors, travelers,  and tech companies. The diverse communities of Denver indicates both promising opportunities and potentials for business. 
 
