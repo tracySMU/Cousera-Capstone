@@ -9,3 +9,18 @@ However, the information at hands for management is limited and far enough to th
  - What is the dynamics of Denver neighborhoods
  - What kind of business is recommended
  - Where or which neighborhood to start the business
+
+### Decription of Data and Methodology
+To address the problems in the analysis, following data will be used:
+
+Four Square data
+ - Source: Foursquare.com
+ - The Four Square data is mainly used to identify the dynamics of the Denver neighborhoods. All neighborhoods will be clustered into several categories in terms their characteristics, then a summary of each categories will be visualized to support the business decision
+
+Denver crime data
+ - Source: [Denver government website](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime/)
+ - The Denver crime data is used to visualize the crime history and trend in its neighborhoods. It will support as the security information for business decision
+ 
+Denver real estate data
+ - Source: [Denver government website](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-real-property-sales-and-transfers/)
+ - The Denver property sales data is used to visualize the real estate history. It will support as the financial information for business decision
