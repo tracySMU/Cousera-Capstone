@@ -21,6 +21,3 @@ Denver crime data
  - Source: [Denver government website](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime/)
  - The Denver crime data is used to visualize the crime history and trend in its neighborhoods. It will support as the security information for business decision
  
-Denver real estate data
- - Source: [Denver government website](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-real-property-sales-and-transfers/)
- - The Denver property sales data is used to visualize the real estate history. It will support as the financial information for business decision
